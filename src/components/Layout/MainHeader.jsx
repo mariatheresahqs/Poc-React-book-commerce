@@ -10,7 +10,7 @@ const MainHeader = (props) => {
 
   return (
     <header className={classes.header}>
-      <h1>ReduxCart</h1>
+      <h1>Hogwarts Books</h1>
       <nav>
         <ul>
           <li>
